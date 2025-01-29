@@ -7,7 +7,7 @@ to run this project put hotel file in xampp -> htdocs -> php
 
 if image is not display to change the code 
 	
-  define('SITE_URL', 'https://127.0.0.1/php/hotel/'); 
+	define('SITE_URL', 'https://127.0.0.1/php/hotel/'); 
 
 in admin -> inc -> essential.php
 
